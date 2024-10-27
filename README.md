@@ -14,7 +14,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ATEYAGAGA-MD+MADE+BY+GAGA+ATEYA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ATEYAGAGA-MD+MADE+BY+GAGA+AND+ATEYA" alt="Typing SVG" /></a>
 
 
 
