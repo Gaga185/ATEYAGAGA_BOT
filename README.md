@@ -1,12 +1,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                                  ANYWAY-MD-V1 
+<p align="center">                                                  ATEYAGAGA-BOT
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09">
+  <a href="https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F">
     <img alt=Support height="390" src="https://files.catbox.moe/jo8z5c.png"> 
     </p>
  
@@ -14,7 +14,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+ANYWAY-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ATEYAGAGA-MD+MADE+BY+GAGA+ATEYA" alt="Typing SVG" /></a>
 
 
 
@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/SIMON32883/MR-ANYWAY-MD/fork)
+[`FORK`](https://github.com/Gaga185/ATEYAGAGA_BOT/fork)
 
 
  
