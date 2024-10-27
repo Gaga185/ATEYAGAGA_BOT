@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/a/btcbdM3'/></a><a><img src='https://i.imgur.com/a/btcbdM3'/></a>
+<a><img src='https://imgur.com/a/btcbdM3'/></a><a><img src='https://imgur.com/a/btcbdM3'/></a>
 
 
 <p align="center">                                                  ATEYAGAGA-BOT
@@ -18,7 +18,7 @@
 
 
 
-<a><img src='https://i.imgur.com/a/btcbdM3'/></a><a><img src='https://i.imgur.com/a/btcbdM3'/></a>
+<a><img src='https://imgur.com/a/btcbdM3'/></a><a><img src='https://imgur.com/a/btcbdM3'/></a>
 
 
 #### SETUP 
